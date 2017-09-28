@@ -21,9 +21,9 @@ Manual trading is required for that.
 **Pair:** LTC-BTC, ZEC-BTC, ETC-ETH, etc.  
 **Exchange:** A cryptocurrency exchange, e.g. Poloniex, Bittrex, 
 GDAX, Kraken   
-**Order Book:**: a complete list of "buy orders" and "sell orders," sourced 
+**Order Book:** a complete list of "buy orders" and "sell orders," sourced 
 directly from the exchanges.  
-**Volume:**: Amount of cryptocurrency traded during a given timeframe  
+**Volume:** Amount of cryptocurrency traded during a given timeframe  
 **Transaction Speed:** Time between sending cryptocurrency from wallet A and 
 receiving it at wallet B  
 **Transaction Cost:** The cost of sending a given cryptocurrency from point A 
