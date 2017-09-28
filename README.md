@@ -102,4 +102,5 @@ to occur.
 interval when advantageous to do so.
 7. Figure it out
 8. Get someone more skilled at automation than Ty to help with ArbBot
-9. If exchanges get shut down, everything is fucked.
+9. Use trustworthy (or as trustworthy as we can get) exchanges that are not in 
+China. Sadly, this probably leaves Liqui and Cryptopia out. Maybe not?
