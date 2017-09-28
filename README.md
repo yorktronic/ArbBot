@@ -38,6 +38,10 @@ Bitcoin (BTC)
 Ethereum (ETH)
 
 ## Altcoins (i.e. not BTC or ETH)
+*Note: Once data collection has begun, we'll be able to see what coins have 
+inter-exchange pricing discrepancies more than others, and then focus on those. 
+For now...*
+
 **High transaction speed, low transaction cost:**  
 Litecoin (LTC)  
 Stellar Lumens (XLM)  
