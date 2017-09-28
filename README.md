@@ -30,7 +30,7 @@ receiving it at wallet B
 to point B
 
 ## Exchanges
-Bittrex, GDAX (Coinbase), Gemini, Kraken, Poloniex
+Bittrex, GDAX (Coinbase), Gemini, Kraken, Poloniex. **Maybe** Liqui and Cryptopia.
 
 ## Coins
 ### Base coins
