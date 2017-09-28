@@ -49,8 +49,8 @@ Ethereum Classic (ETC)
 
 # Methodology
 Equal amounts of BTC and ETH are placed on all exchanges used by ArbBot. 
-Altcoins are also placed on the exchanges, amounts are in sum roughly equal to 
-the amount of BTC + ETH on each exchange.
+Altcoins are also placed on the exchanges. The sum of all altcoins are 
+roughly equal to the amount of BTC + ETH on each exchange.
 
 ArbBot pulls order book data from exchanges that are U.S. based, both for 
 volume and trust reasons (Chinese exchanges cannot be trusted). The pull is in 
@@ -74,7 +74,7 @@ or ETH is particularly bearish on a given day, this logic could be reversed.
 At a TBD time interval, the pots of cryptocurrency on each exchange is evened 
 out, and the process repeats. For security reasons, this part will be manual 
 initially. Exchanges have the ability to restrict what can be done via API, 
-and since I know very little about security I'm going to disable API withdrawls.
+and since I know very little about security I will keep API withdrawls disabled.
 
 ## Complications
 1. Daily withdrawl limits on exchanges
