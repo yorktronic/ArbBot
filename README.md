@@ -39,7 +39,7 @@ Ethereum (ETH)
 
 ## Altcoins (i.e. not BTC or ETH)
 *Note: Once data collection has begun, we'll be able to see what coins have 
-inter-exchange pricing discrepancies of a higher amplitude and frequancy than others.
+inter-exchange pricing discrepancies of a higher amplitude and frequency than others.
 For now...*
 
 **High transaction speed, low transaction cost:**  
